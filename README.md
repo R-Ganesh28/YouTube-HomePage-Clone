@@ -36,19 +36,8 @@ https://r-ganesh28.github.io/youtube-homepage-clone/
 
 ## 📁 Folder Structure
 
-'''youtube-homepage-clone/
-│
-├── index.html
-├── styles/
-│ ├── general.css
-│ ├── header.css
-│ ├── sidebar.css
-│ └── video.css
-│
-├── header-pictures/
-├── sidebar-pictures/
-├── thumbnails/
-└── channels/'''
+<img width="219" height="323" alt="image" src="https://github.com/user-attachments/assets/e963d485-8277-4e51-bce4-9072216462a6" />
+
 
 
 ---
